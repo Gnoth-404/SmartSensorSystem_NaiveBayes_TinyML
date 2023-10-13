@@ -1,0 +1,8 @@
+ToDo:
+
+-GUI: SW version wird nicht eingetragen
+-- Nur Header Daten anzeigen (Klasse und Distanz)
+-SW: Header wird erweitert
+-- Abspeichern mit Header in jeder Zeile
+-- nur Header speichern (
+-- Nur Header ausgeben

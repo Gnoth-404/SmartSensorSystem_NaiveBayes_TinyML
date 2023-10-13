@@ -1,0 +1,9 @@
+{
+    "hostname": "192.168.0.198",
+    "username": "root",
+    "password": "root",
+    "local_folder": "./data_redpitaya",
+    "data_folder": "/root/iic/",
+    "proc_folder": "/root/redpitaya/Examples/Communication/test/proc",
+    "model_folder": "/root/redpitaya/Examples/Communication/test/proc/inc"
+  }

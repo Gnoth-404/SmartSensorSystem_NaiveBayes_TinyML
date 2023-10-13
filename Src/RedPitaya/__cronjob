@@ -1,0 +1,1 @@
+@reboot sleep 20 && sh /root/redpitaya/Examples/Communication/C/iic/proc/sensor_start.sh >dev/null 2>&1

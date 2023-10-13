@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.pde": "cpp",
+        "button.h": "c",
+        "udp_server.h": "c",
+        "eml_bayes.h": "c",
+        "eml_fixedpoint.h": "c",
+        "feat_struct.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

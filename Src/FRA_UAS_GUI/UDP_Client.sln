@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP_Client", "UDP_Client.csproj", "{F35D0E7A-02F3-4CBE-B7A6-6A65A0E2385B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{22FCD390-48DC-4410-97BB-C4C4F331A0A1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		bin\Debug\proc\inc\_kiss_fft_guts.h = bin\Debug\proc\inc\_kiss_fft_guts.h
+		bin\Debug\proc\src\iic.c = bin\Debug\proc\src\iic.c
+		bin\Debug\proc\inc\iic.h = bin\Debug\proc\inc\iic.h
+		bin\Debug\proc\src\kiss_fft.c = bin\Debug\proc\src\kiss_fft.c
+		bin\Debug\proc\inc\kiss_fft.h = bin\Debug\proc\inc\kiss_fft.h
+		bin\Debug\proc\src\kiss_fftr.c = bin\Debug\proc\src\kiss_fftr.c
+		bin\Debug\proc\inc\kiss_fftr.h = bin\Debug\proc\inc\kiss_fftr.h
+		bin\Debug\proc\src\main.c = bin\Debug\proc\src\main.c
+		bin\Debug\proc\inc\main.h = bin\Debug\proc\inc\main.h
+		bin\Debug\proc\src\udp_server.c = bin\Debug\proc\src\udp_server.c
+		bin\Debug\proc\inc\udp_server.h = bin\Debug\proc\inc\udp_server.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35D0E7A-02F3-4CBE-B7A6-6A65A0E2385B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35D0E7A-02F3-4CBE-B7A6-6A65A0E2385B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35D0E7A-02F3-4CBE-B7A6-6A65A0E2385B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35D0E7A-02F3-4CBE-B7A6-6A65A0E2385B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4497E0BA-4A32-406C-9CCB-80982E11A96F}
+	EndGlobalSection
+EndGlobal
