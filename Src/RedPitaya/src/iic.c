@@ -29,7 +29,6 @@
 #include "iic.h"
 #include "udp_server.h"
 #include "save_data.h"
-#include "nn.h"
 
 #include <sys/fcntl.h> 
 #include <sys/stat.h>
