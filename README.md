@@ -164,8 +164,7 @@ This ensures that the sensor system starts automatically on reboot without needi
 ### Video Demonstration
 Watch my demonstration video:
 
-<iframe src="https://youtu.be/sZNM9QpZ5yg" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+[![Demonstration video](https://img.youtube.com/vi/sZNM9QpZ5yg/0.jpg)](https://www.youtube.com/watch?v=sZNM9QpZ5yg)
 ---
 
 ## Contributing
