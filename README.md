@@ -108,7 +108,7 @@ The system architecture comprises several threads running on the Red Pitaya plat
    - Transfer the data from Red Pitaya to your local machine using SFTP, which is integrated into the GUI.
 
 3. **Convert Data**:
-   - Convert the binary data into a `.xlsx` format for easier manipulation and dataset creation.
+   - Convert the binary data into a `.xlsx` format for analysing data and training model.
 
 4. **Labeling**:
    - Label the dataset: `1` for human objects, and `0` for non-human objects.
@@ -162,7 +162,6 @@ This ensures that the sensor system starts automatically on reboot without needi
 
 
 ### Video Demonstration
-Watch my demonstration video:
 
 [![Demonstration video](https://img.youtube.com/vi/sZNM9QpZ5yg/0.jpg)](https://www.youtube.com/watch?v=sZNM9QpZ5yg)
 ---
